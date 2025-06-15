@@ -72,3 +72,6 @@ Set your environment variables in .env:
 
 GOOGLE_API_KEY=your_gemini_key
 
+Final Pipeline Run
+python main.py
+
