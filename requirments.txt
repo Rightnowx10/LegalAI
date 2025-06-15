@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-google-genai
+sentence-transformers
+chromadb
+python-dotenv

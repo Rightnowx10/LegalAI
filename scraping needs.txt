@@ -1,0 +1,16 @@
+doc id - https://indiankanoon.org/doc/168671544/
+
+citations - h3 , class = doc citations
+
+title - h2 , class = doc title
+
+court - h2 , class = docsource_main
+
+bench - h3, class = doc_bench
+
+then there are multiple p tags data with different titles like precedent analysis and analysis of the law and then there are blockquote just after the p tags, that means they are related to each other right?
+
+then there are p tags with different data structure, like conclusion , precedents and with them they have block quote too!
+
+now we should scrape the data in the format which would actually fetch all this data and store it in the file the way it is and maintain the chronology as well
+Another thing is that while generating a case brief , what we have to do is to retrieve more information or lets say 
